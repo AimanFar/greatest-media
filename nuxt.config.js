@@ -29,24 +29,31 @@ export default {
   /*
   ** Plugins to load before mounting the App
   */
+ 
   plugins: [
+    
   ],
   /*
   ** Nuxt.js modules
   */
   modules: [
-    'nuxt-purgecss',
+    'nuxt-purgecss','nuxt-svg'
   ],
+  purgeCSS: {
+    mode: 'postcss',
+  },
   /*
   ** Build configuration
   */
   build: {
     postcss: {
       plugins: {
-        tailwindcss: './tailwind.config.js'
+        tailwindcss: './tailwind.config.js',
+        
       },
+     
     },
-    extractCSS: true,
+   
     /*
     ** You can extend webpack config here
     */

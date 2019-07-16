@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "nuxt": "^2.0.0",
-    "nuxt-purgecss": "^0.2.1"
+    "nuxt-purgecss": "^0.2.1",
+    "nuxt-svg": "^0.1.6"
   },
   "devDependencies": {
     "nodemon": "^1.18.9",
