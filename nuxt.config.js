@@ -44,8 +44,9 @@ export default {
     postcss: {
       plugins: {
         tailwindcss: './tailwind.config.js'
-      }
+      },
     },
+    extractCSS: true,
     /*
     ** You can extend webpack config here
     */
