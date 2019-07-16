@@ -2,7 +2,7 @@
   <div>
     <div class="relative flex flex-wrap items-center h-screen md:py-0 py-10 px-4">
       <div class="absolute inset-0 w-full h-full z-negative">
-        <img src="~/assets/img/banner.jpg" alt="greatest-banner" class="object-cover w-full max-w-full h-full">
+        <img src="~/assets/img/banner.svg" alt="greatest-banner" class="object-cover w-full max-w-full h-full">
       </div>
 
       <div class="container mx-auto w-full flex flex-col flex-wrap items-center">
@@ -241,7 +241,7 @@
       </div>
 
       <div class="bg-black relative block md:w-1/2 w-full text-white">
-        <img src="~/assets/img/minimalist.png" alt="Hue Cosmetics" class="">
+        <img src="~/assets/img/minimalist.svg" alt="" class="">
       </div>
 
       <div class="bg-black relative block md:w-1/2 w-full text-white flex content-between items-center md:py-0 py-10">
