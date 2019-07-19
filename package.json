@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
     "nuxt": "^2.0.0",
     "nuxt-purgecss": "^0.2.1",
     "nuxt-svg": "^0.1.6"

@@ -241,7 +241,7 @@
       </div>
 
       <div class="bg-black relative block md:w-1/2 w-full text-white">
-        <img src="~/assets/img/minimalist.jpg" alt="" class="">
+        <img src="~/assets/img/minimalist.png" alt="" class="w-full">
       </div>
 
       <div class="bg-black relative block md:w-1/2 w-full text-white flex content-between items-center md:py-0 py-10">
@@ -270,7 +270,7 @@
 
     </div>
 
-    <div class="flex flex-col relative items-center w-full container mx-auto md:py-64 py-24">
+    <div class="flex flex-col relative items-center  w-full container mx-auto md:py-64 py-24">
       <h2 class="md:text-4xl text-2xl text-center px-1 tracking-widest uppercase mb-6">
         Starting a project?
       </h2>
