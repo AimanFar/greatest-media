@@ -41,6 +41,7 @@ export default {
   ],
   purgeCSS: {
     mode: 'postcss',
+    whitelist: ['responsive','group-hover'],
   },
   /*
   ** Build configuration
