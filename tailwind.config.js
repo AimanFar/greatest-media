@@ -2,6 +2,7 @@
 module.exports = {
   theme: {
     black:'#020202',
+    display: ['responsive','group-hover'],
     extend: {}
   },
   variants: {}

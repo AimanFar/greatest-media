@@ -22,10 +22,10 @@
       </div>
     </div>
 
-    <div class="flex relative md:pt-40 md:py-18 py-24 bg-black text-white">
+    <div class="flex relative md:pt-40 md:py-16 py-24 bg-black text-white">
       <div class="mx-auto md:w-1/2 w-full px-8">
         <p class="leading-normal text-center">
-          We're a full-service brand experience and packaging design agency, founded by partners who have owned successful retail brands. Purposefully selective, we work with brands that want to stand out and also stand for something.
+          We're a full-service brand experience and growth agency, founded by partners who have owned successful retail brands. Purposefully selective, we work with brands that want to stand out and also stand for something.
         </p>
       </div>
     </div>
@@ -98,6 +98,12 @@
             </li>
             <li>
               <p>Social Media Marketing</p>
+            </li>
+            <li>
+              <p>Conversion Optimization</p>
+            </li>
+            <li>
+              <p>Email Marketing</p>
             </li>
           </ul>
         </div>
