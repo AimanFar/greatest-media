@@ -213,7 +213,7 @@
             </p>
           </div>
         </div>
-        <img src="~/assets/gallery/2.jpg" alt="Hue Cosmetics" class="">
+        <img src="~/assets/gallery/2.jpg" alt="Buco" class="">
       </div>
 
       <div class="relative group block md:w-1/4 w-1/2">
@@ -228,7 +228,7 @@
             </p>
           </div>
         </div>
-        <img src="~/assets/gallery/10.jpg" alt="Hue Cosmetics" class="">
+        <img src="~/assets/gallery/10.jpg" alt="Senses Coffee" class="">
       </div>
 
       <div class="relative group block md:w-1/4 w-1/2">
@@ -243,7 +243,7 @@
             </p>
           </div>
         </div>
-        <img src="~/assets/gallery/14.jpg" alt="Hue Cosmetics" class="">
+        <img src="~/assets/gallery/14.jpg" alt="Myka" class="">
       </div>
 
       <div class="bg-black relative block md:w-1/2 w-full text-white">
